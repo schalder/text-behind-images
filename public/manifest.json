@@ -1,9 +1,0 @@
-{
-  "short_name": "Text Behind Image",
-  "name": "Text Behind Image Editor",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
